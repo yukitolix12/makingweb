@@ -34,3 +34,9 @@ nav {
     display: flex;
     align-items: center;
 }
+
+.logo {
+    width: 20%;
+    height: 20%;
+    margin-right: 12px;
+}
