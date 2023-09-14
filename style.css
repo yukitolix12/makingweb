@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.main{
+    font-size: 1.2rem;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to right, rgb(106, 63, 126),rgb(185, 69, 69));
+}
