@@ -1,12 +1,22 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-.main{
+.main {
     font-size: 1.2rem;
     width: 100vw;
     height: 100vh;
     background: linear-gradient(to right, rgb(106, 63, 126),rgb(185, 69, 69));
+    overflow: hidden;
+}
+
+nav {
+    display: flex;
+    width: 80%;
+    margin: 20px auto;
+    align-items: center;
+    font-weight: 550;
+    justify-content: space-between;
 }
