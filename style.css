@@ -25,3 +25,7 @@ nav {
     flex: 1;
     text-align: right;
 }
+
+.nav-links li {
+    list-style: none;
+}
