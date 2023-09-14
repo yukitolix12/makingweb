@@ -50,5 +50,9 @@ nav {
     font-weight: 600;
     color: #fff;
     text-decoration: none;
-    
+    transition: 0.3s;
+}
+
+.nav-links ul a:hover {
+    color: rgb(226, 185, 97);
 }
