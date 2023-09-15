@@ -83,6 +83,14 @@ nav {
     color: white;
 }
 
+.feature div {
+    margin-left: 20px;
+}
+
+.feature div a {
+    margin-top: 8px;
+}
+
 .one {
     display: flex;
     top: 450px;
