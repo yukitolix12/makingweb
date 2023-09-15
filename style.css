@@ -60,11 +60,21 @@ nav {
 }
 
 .information {
-    width: 700px;
+    width: 1000px;
     height: 1000px;
     background: #ccc;
     position: absolute;
     top: 50%;
     left: -10%;
     transform: translateY(-50%);
+}
+
+#circle {
+    width: 1000px;
+    height: 1000px;
+    background: #ccc;
+    position: absolute;
+    border-radius: 50%;
+    top: 0;
+    left: 0;
 }
