@@ -116,3 +116,11 @@ nav {
     bottom: 150px;
     right: 370px;
 }
+
+.pc {
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 27%;
+}
