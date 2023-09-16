@@ -141,3 +141,11 @@ nav {
     color: #fff;
     margin: 20px 0;
 }
+
+#upBtn {
+    cursor: pointer;
+}
+
+#downBtn {
+    cursor: pointer;
+}
