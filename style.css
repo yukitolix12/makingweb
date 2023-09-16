@@ -124,3 +124,11 @@ nav {
     transform: translateY(-50%);
     left: 27%;
 }
+
+.control {
+    position: absolute;
+    top: 50%;
+    right: 15%;
+    transform: translateY(-50%);
+    text-align: center;
+}
