@@ -148,4 +148,5 @@ nav {
 
 #downBtn {
     cursor: pointer;
+    transform: rotate(-180deg);
 }
