@@ -136,3 +136,8 @@ nav {
 .control img {
     width: 15px;
 }
+
+.control h3 {
+    color: #fff;
+    margin: 20px 0;
+}
