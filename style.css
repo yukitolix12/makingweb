@@ -83,6 +83,11 @@ nav {
     color: white;
 }
 
+.feature img {
+    width: 70px;
+}
+
+
 .feature div {
     margin-left: 20px;
 }
