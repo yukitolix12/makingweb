@@ -107,7 +107,12 @@ nav {
     left: 340px;
 }
 
-.three{
+.three {
     bottom: 450px;
     left: 50px;
+}
+
+.four {
+    bottom: 150px;
+    right: 370px;
 }
