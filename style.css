@@ -71,7 +71,7 @@ nav {
 #circle {
     width: 1000px;
     height: 1000px;
-    background: #ccc;
+    /*background: #ccc;*/
     position: absolute;
     border-radius: 50%;
     top: 0;
