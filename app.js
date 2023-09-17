@@ -5,3 +5,9 @@ var downBtn = document.getElementById("downBtn");
 var rotateValue = circle.style.transform;
 //console.log(rotateValue);
 var rotateSum;
+
+upBtn.onclick = function() {
+    /*時計回りに90度回転させる*/ 
+    rotateSum = rotateValue + "rotate(-90deg)";
+    circle.style.transform = rotateSum;
+};
