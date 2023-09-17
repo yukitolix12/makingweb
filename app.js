@@ -1,2 +1,2 @@
 var circle = document.getElementById("circle");
-console.log(circle);
+var upBtn = document.getElementById("upBtn");
