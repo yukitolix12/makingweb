@@ -20,7 +20,8 @@ nav {
     margin: 20px auto;
     align-items: center;
     font-weight: 550;
-    justify-content: space-between;
+    position: sticky;
+    z-index: 1;
 }
 
 .nav-links {
