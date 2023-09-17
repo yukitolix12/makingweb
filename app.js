@@ -1,1 +1,1 @@
-console.log("aaaa");
+var circle = document.getElementById("circle");
